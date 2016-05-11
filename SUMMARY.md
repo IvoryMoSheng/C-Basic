@@ -2,8 +2,8 @@
 
 This is the summary of my book.
 
-* section 1
-    * [example 1](section1/example1.md)
+* 绪论
+    * [example 1](C.md)
     * [example 2](section1/example2.md)
-* [section 2](section2/README.md)
+* 第一章
     * [example 1](section2/example1.md)
